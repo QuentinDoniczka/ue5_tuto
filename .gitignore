@@ -1,0 +1,17 @@
+# Ignore les dossiers générés par UE4/UE5
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Ignore les fichiers de configuration locaux
+.vscode/
+.idea/
+*.sublime-*
+
+# Ignore les fichiers de log
+*.log
+
+# Ignore les builds
+Build/
